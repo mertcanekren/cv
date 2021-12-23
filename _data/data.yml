@@ -1,20 +1,19 @@
-name: John Doe
+name: Mertcan Ekren
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: mertcanekren@gmail.com
+  github: mertcanekren
+  linkedin: mertcanekren
   phone: 
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Turkish
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
   - degree: MSc in Informatics
@@ -28,17 +27,12 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP
   - category: Frontend
     skill:
-      - React
+      - JS
       - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
-
+  
 # Profile
 profile: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
@@ -73,17 +67,6 @@ experience:
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
 projects:
   - title: Cool Project 
     link: #
@@ -96,13 +79,3 @@ projects:
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
